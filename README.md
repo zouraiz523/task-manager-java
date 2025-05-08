@@ -14,7 +14,7 @@ Enter their choice (e.g., 1 for adding a task).
 Input corresponding details like task title or task number.
 Example Output
 Code
-====== TASK MANAGER ======
+TASK MANAGER 
 1. Add Task
 2. View Tasks
 3. Mark Task as Completed
